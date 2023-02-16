@@ -9,4 +9,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about nothing
 - 📫 How to reach me: text me
 - 😄 Pronouns: Heli/Helicopter
-- ⚡ Fun fact: I like trains
+- ⚡ Fun fact: I like trains :train:
