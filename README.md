@@ -8,5 +8,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with everything
 - 💬 Ask me about nothing
 - 📫 How to reach me: text me
-- 😄 Pronouns: Heli/Helicopter
+- 😄 Pronouns: Heli/Helicopter :helicopter:
 - ⚡ Fun fact: I like trains :train:
