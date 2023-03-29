@@ -1,13 +1,15 @@
-### Hi there 👋
+# Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on alot of things
-- 🌱 I’m currently learning how to program
-- 👯 I’m looking to collaborate on idk
-- 🤔 I’m looking for help with everything
-- 💬 Ask me about nothing
-- 📫 How to reach me: text me
-- 😄 Pronouns: Heli / Helicopter :helicopter:
-- ⚡ Fun fact: I like trains :train:
+I'm Thibo Perdaens, a Web designer based in Gent. I enjoy working on websites and constantly learning new technologies.
 
+## Skills
 
-# Thank you for reading!
+These are some of my top skills:
+
+- Programming languages: JavaScript, HTML, CSS.
+- Tools and platforms: Visual Studio Code, Figma, Blender.
+
+## Contact Me
+
+- Email: thiboperdaens@hotmail.com
+- LinkedIn: (https://www.linkedin.com/in/thibo-perdaens-b4b904250/)
